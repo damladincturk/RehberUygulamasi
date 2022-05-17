@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\hakan\AndroidStudioProjects\RehberUygulamasi\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
+        <dex dex="C:\Users\hakan\AndroidStudioProjects\RehberUygulamasi\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appindexing-8.4.0_37d579527b9e4c4ab63fefbd9bf7b93eeba36d89\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hakan\AndroidStudioProjects\RehberUygulamasi\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\hakan\AndroidStudioProjects\RehberUygulamasi\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.3.0_67b1b3c328f7f5e0eccc8ca851e552feb20d9e99\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hakan\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.0\support-annotations-25.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="dd84903d2e1af25a6081ef9038ad863cb14ca3a0">
+        <dex dex="C:\Users\hakan\AndroidStudioProjects\RehberUygulamasi\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.0_377900a220116bdb5e3ee1be65b2a8fce3407eef\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hakan\AndroidStudioProjects\RehberUygulamasi\app\build\intermediates\exploded-aar\com.android.support\transition\25.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="fbb206f7a119f66ce171d95aae1225a5b209a8b7">
+        <dex dex="C:\Users\hakan\AndroidStudioProjects\RehberUygulamasi\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-transition-25.3.0_b5bac4db44f0b7b362686e2093a17e3f2af3881c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hakan\AndroidStudioProjects\RehberUygulamasi\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="5cc5ef8347a6bafa14556cbd35230aa9b3431bb0">
+        <dex dex="C:\Users\hakan\AndroidStudioProjects\RehberUygulamasi\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.3.0_6cd559992f7371693fe4ff22564ba3b712d3d512\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hakan\AndroidStudioProjects\RehberUygulamasi\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d6a04527c17597019dad82777c5094a3d60d1c33">
+        <dex dex="C:\Users\hakan\AndroidStudioProjects\RehberUygulamasi\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.3.0_14d077f1f2493dd80b38c8be41342a229ed43d8b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hakan\AndroidStudioProjects\RehberUygulamasi\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="C:\Users\hakan\AndroidStudioProjects\RehberUygulamasi\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-8.4.0_d9160b6374939c74b598a79f6827747cbb295a49\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hakan\AndroidStudioProjects\RehberUygulamasi\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8837331f9f369c30dfd2dd123c671d41ae1324ec">
+        <dex dex="C:\Users\hakan\AndroidStudioProjects\RehberUygulamasi\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_d92fe37a19cdd1b9be05da527193ea34c0b8dbfc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hakan\AndroidStudioProjects\RehberUygulamasi\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="C:\Users\hakan\AndroidStudioProjects\RehberUygulamasi\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-8.4.0_fa487b04bb4ddfd9014b2952aec05d7a1e1413b4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hakan\AndroidStudioProjects\RehberUygulamasi\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="425c7b17887e5c3f8cbdf67ba171bc246f29b42c">
+        <dex dex="C:\Users\hakan\AndroidStudioProjects\RehberUygulamasi\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.3.0_73d2e1472b593ccc5d67a619eea3e66b0bfe3345\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hakan\AndroidStudioProjects\RehberUygulamasi\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="19685893dcf52bd8009d71cf64f64d54edfd02d7">
+        <dex dex="C:\Users\hakan\AndroidStudioProjects\RehberUygulamasi\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_129bc250d9f9aa62598c8c982363b50d6a47d88b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hakan\AndroidStudioProjects\RehberUygulamasi\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="4b746ef0fd46acb5aaf3d9ab9a4cec22c28d3211">
+        <dex dex="C:\Users\hakan\AndroidStudioProjects\RehberUygulamasi\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.3.0_cde5de761292ce1f41ea0aed74fae79730cd8977\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hakan\AndroidStudioProjects\RehberUygulamasi\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="518768f3200963fbfec652f498da2c9d39245234">
+        <dex dex="C:\Users\hakan\AndroidStudioProjects\RehberUygulamasi\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.3.0_aba1b76d6fef87e65cc892846b47c5a29ac67b46\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hakan\AndroidStudioProjects\RehberUygulamasi\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="93c1199fcb0a34b980e6fff8350daff62e696ec2">
+        <dex dex="C:\Users\hakan\AndroidStudioProjects\RehberUygulamasi\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.3.0_836fc25a1c4fa94716218ec18355b77dcd215e44\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hakan\AndroidStudioProjects\RehberUygulamasi\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="93c10d68ab5ea070f15782ae6d3a28d1f1d8f45e">
+        <dex dex="C:\Users\hakan\AndroidStudioProjects\RehberUygulamasi\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.3.0_b113ccc8c51f9fcaec8811a16c97429f1aad1b4f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hakan\AndroidStudioProjects\RehberUygulamasi\app\build\intermediates\exploded-aar\com.theartofdev.edmodo\android-image-cropper\2.2.5\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="4d744cf34c66c7e1a0b822bddbcbe4cc7f98ed72">
+        <dex dex="C:\Users\hakan\AndroidStudioProjects\RehberUygulamasi\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.theartofdev.edmodo-android-image-cropper-2.2.5_d12c7ea42541dc4eb6212eec5ebb41bc6e877cac\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hakan\AndroidStudioProjects\RehberUygulamasi\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="70f23cb87278f89aa51e6f57e8f0fd5266572d95">
+        <dex dex="C:\Users\hakan\AndroidStudioProjects\RehberUygulamasi\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.3.0_e5232469fe252044c4bda9af64a3b62e98897609\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hakan\AndroidStudioProjects\RehberUygulamasi\app\build\intermediates\exploded-aar\com.android.support\design\25.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="9ab787a20aae245b5b3651ae0b9c38459eb37715">
+        <dex dex="C:\Users\hakan\AndroidStudioProjects\RehberUygulamasi\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-25.3.0_a08a47cceaec1f3aad8670daca13157e7a9fc4a5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hakan\AndroidStudioProjects\RehberUygulamasi\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a3e61044038fb54cddf6b8dc79f41d2b57f42caf">
+        <dex dex="C:\Users\hakan\AndroidStudioProjects\RehberUygulamasi\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-25.3.0_8676f7e0601109869a798332d23dbd79839ee4dd\classes.dex" />
+    </item>
+
+</items>

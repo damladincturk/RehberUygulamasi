@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">RehberUygulamasi</string>
+    <string name="yenikisiekle">Yeni Kişi Ekle</string>
+    <string name="kisiler">Kişiler</string>
+    <string name="yenikullanici">YENİ KULLANICI</string>
+    <string name="isim">İsim</string>
+    <string name="telefon">Telefon</string>
+    <string name="eposta">Eposta :</string>
+    <string name="kaydet">KAYDET</string>
+    <string name="duzenle">DÜZENLE</string>
+    <string name="guncelle">GÜNCELLE</string>
+    <string name="zilsesi">Zil Sesi :</string>
+    <string name="kisiad">Kişi Ad Soyad</string>
+    <string name="ceptelefon">Cep Telefonu :</string>
+    <string name="isimgoster">İsim :</string>
+    <string name="yenikisieklebuton">Yeni Kişi Ekle</string>
+    <string name="title_activity_rehber_goruntule">RehberGoruntule</string>
+    <string name="id" />
+    <string name="muziksec">Müzik Seç</string>
+
+</resources>
